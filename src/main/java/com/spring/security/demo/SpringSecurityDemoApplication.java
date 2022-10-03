@@ -11,7 +11,8 @@ public class SpringSecurityDemoApplication {
 		System.out.println("configured all the new updates \n" +
 				"resolved maven dependencies\n " +
 				"created database\n" +
-				"first commit");
+				"first commit\n" +
+				"all set");
 	}
 
 }
